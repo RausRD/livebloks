@@ -14,6 +14,8 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
+I worked on a small but interesting project and a good project, using Liveblocks. I wrote a lot of code and gained a lot of practice and necessary knowledge.
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
@@ -24,8 +26,6 @@
 - Tailwind CSS
 
 ## <a name="features">🔋 Features</a>
-
-I worked on a small but interesting project and a good project, using Liveblocks. I wrote a lot of code and gained a lot of practice and necessary knowledge.
 
 👉 **Authentication**: User authentication using GitHub through NextAuth, ensuring secure sign-in/out and session management.
 
